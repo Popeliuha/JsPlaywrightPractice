@@ -1,0 +1,2 @@
+# JsPlaywrightPractice
+Artem Ovcharenko course
